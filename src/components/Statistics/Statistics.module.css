@@ -1,0 +1,31 @@
+.styleHeader {
+  text-align: center;
+  font-style: italic;
+  font-weight: 600;
+  font-size: 40px;
+  margin: 10px auto 10px auto;
+}
+
+.styleList {
+  list-style: none;
+  background-color: lightyellow;
+  width: 400px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  flex-direction: column;
+  border: solid navy;
+  border-radius: 20px;
+  margin: 0 auto;
+  align-items: center;
+  justify-content: center;
+  padding: 0;
+}
+
+.styleItem {
+  margin: 0 auto;
+  padding: 0;
+  font-style: italic;
+  font-weight: 400;
+  font-size: 30px;
+}

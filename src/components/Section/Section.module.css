@@ -1,0 +1,11 @@
+.styleSection {
+  width: 100%;
+}
+
+.styleHeader {
+  text-align: center;
+  font-style: italic;
+  font-weight: 600;
+  font-size: 40px;
+  margin: 10px auto 10px auto;
+}
